@@ -1,0 +1,7 @@
+#surefire
+#Fri Nov 18 15:23:05 CST 2022
+idea.version2019.3.3=true
+user.dir=E\:\\CodeWorkSpace\\JavaWorkspace\\myproject\\sangeng-blog
+localRepository=E\:\\Soft\\apache-maven-3.6.1\\mvn-resp
+basedir=E\:\\CodeWorkSpace\\JavaWorkspace\\myproject\\sangeng-blog
+test=com.sangeng.SangengApplication
